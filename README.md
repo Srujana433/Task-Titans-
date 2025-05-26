@@ -168,3 +168,6 @@ int main()
   }
 
 //>>>>>>> master//
+
+//Writing c program 
+#includehgyufksnf,huytfdhb
