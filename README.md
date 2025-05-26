@@ -1,3 +1,6 @@
+//<<<<<<< master//
+//The group Task Titans contains C++ Program.
+=======//
 #include <stdio.h>
 
 int main() {
@@ -164,3 +167,4 @@ int main()
     return 0;
   }
 
+//>>>>>>> master//
