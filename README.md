@@ -171,3 +171,7 @@ int main()
 
 //Writing c program 
 #includehgyufksnf,huytfdhb
+//tuiymhwgduef
+jhihihkjbjhftydy
+eklrjeoihjhb
+
